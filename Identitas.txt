@@ -1,0 +1,28 @@
+
+Nama Saya	: Bintang Wahyu Saputra
+No		: 23
+Kelas		: XII RPL A
+
+Jadi Gini Pak dan Bu. Saya membuat project yg bernama web profil sekolah,
+saya membuat dengan bantuan framework laravel 8, bootstrap 5, dan vue js.
+
+
+Folder Name	:
+sekolah = FrontEnd
+web-sekolah = BackEnd
+
+-Admin	=
+Email	: admin@gmail.com
+Pw	: password
+
+Operator = 
+Email	: operator@gmail.com
+Pw	: operator
+
+Manager =
+Email	: manajer@gmail.com
+Pw	: manajer
+
+SEKIAN TERMIA GAJI!!! EH MAAP TERIMA KASIH 
+
+
